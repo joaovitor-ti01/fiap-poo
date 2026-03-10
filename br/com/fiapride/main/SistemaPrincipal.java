@@ -5,9 +5,8 @@ public class SistemaPrincipal {
 
     public static void main(String[] args) {     
     	
-    	Portao portao1 = new Portao("Alumínio", "preto", false, false, true);
+    	Portao portao1 = new Portao("Alumínio", "preto", false, false, false);
     	Portao portao2 = new Portao("Aço", "cinza", true, true, false );
-        
         
        portao1.exibir();
        portao2.exibir();
