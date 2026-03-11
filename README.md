@@ -1,4 +1,4 @@
-# Atividade 3 — Programação Orientada a Objetos (POO)
+# Atividades — Programação Orientada a Objetos (POO)
 ## Sobre o Projeto
 Esta é uma sequencia de atividades, com foco em aprofundar os conceitos de Programação Orientada a Objetos (POO).
 
